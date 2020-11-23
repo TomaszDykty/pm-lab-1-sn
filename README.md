@@ -6,7 +6,7 @@ Wersja: v1.0.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Tomasz Dykty  
+Imię i nazwisko studenta:   Tomasz  Dykty
 Numer albumu:               72524  
 Grupa studencka:            WEL18DE1S1
 
