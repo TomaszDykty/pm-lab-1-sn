@@ -34,7 +34,7 @@ zakrudki czas trwania czasu zielonego światła
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
 Odpowiedź:  ...
-tak jeśli poda się ją na katodę a na anodę poda się napięcie dodatnie
+tak jeśli poda się ją na katodę a na anodę poda się napięcie dodatnie ponieważ będzie wtedy właściwa różnica potencjałów dla diody
 # Zadania rozszerzajace
 ## Zadanie 3-1:
 Pytanie:    *Określić wady i zalety operowania na rejestrach mikrokontrolera.*  
@@ -47,3 +47,4 @@ Odpowiedź:  ...
 ## Zadanie 3-3:
 Pytanie:    *Kiedy programowe generowanie sygnału PWM ma zastosowanie i jakie pociąga to za sobą konsekwencje.*  
 Odpowiedź:  ...
+stosować go można do regulacji mocy świecenia diud z układami elektronicznymi do sterowania obniżania i podwyższnia napięcia do sterowania prędkością obrotową silników i generowania zmiennej regulacji impulsów wadą jest to że jeśli chcieli byśmy zrobić falownik napięcia który poza szerokością zmieniał by częstotliwość fali modulującej to musieli byśmy zmieniać częstotliwość taktowania dla całego układu.
